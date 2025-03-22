@@ -24,7 +24,7 @@ int main()
 		cout << first_array[i]<<" ";
 	}
 	cout << endl;
-	int summ = 0;
+	float summ = 0;
 	for (int i = 0; i < index; i++)
 	{
 		summ += first_array[i];
